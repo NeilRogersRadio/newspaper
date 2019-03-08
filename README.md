@@ -1,2 +1,3 @@
-# newspaper
-✍🏻 Newpaper articles about Neil Rogers and related radio programming. 
+# Newspaper Clippings
+
+✍🏻 Newspaper articles about Neil Rogers and related radio programming.
